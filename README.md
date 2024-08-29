@@ -66,5 +66,5 @@ Replace `app.py` with the name of your Streamlit Python file if it is named diff
 ### Tech-Stack information
 1. Streamlit backend and display
 2. Mistralai as api for generative ai
-3. **Future work:**Pyannotate for diarization
+3. **Future work**: Pyannotate for diarization
 4. Pygame and google for speech recognition 
